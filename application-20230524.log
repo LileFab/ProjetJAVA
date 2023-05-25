@@ -1,0 +1,5 @@
+2023-05-24 11:42:42.143 [main] DEBUG ReadFiles.FileReader - debug
+2023-05-24 11:42:42.146 [main] INFO  ReadFiles.FileReader - info
+2023-05-24 11:42:42.146 [main] WARN  ReadFiles.FileReader - warn
+2023-05-24 11:42:42.146 [main] ERROR ReadFiles.FileReader - error
+2023-05-24 11:42:42.146 [main] FATAL ReadFiles.FileReader - fatal
