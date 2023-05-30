@@ -10,17 +10,13 @@ import org.apache.logging.log4j.Logger;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.net.MalformedURLException;
 
-import java.io.File;
-import java.io.IOException;
 import java.io.Reader;
-import java.nio.file.Files;
 import java.util.List;
 
-public class CSVFileReader extends Reader {
+public class CSVFileReader {
     private static final Logger logger = LogManager.getLogger(FileReader.class);
-
+//gge
     public void checkHeader(File[] files) throws IOException {
         logger.info("Entré méthode checkHeader");
         for(File path : files)
@@ -31,15 +27,5 @@ public class CSVFileReader extends Reader {
             logger.info("fin récup");
             System.out.println(csvRecords.get(0));
         }
-    }
-
-    @Override
-    public int read(char[] cbuf, int off, int len) throws IOException {
-        return 0;
-    }
-
-    @Override
-    public void close() throws IOException {
-
     }
 }

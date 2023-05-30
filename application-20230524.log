@@ -3,3 +3,29 @@
 2023-05-24 11:42:42.146 [main] WARN  ReadFiles.FileReader - warn
 2023-05-24 11:42:42.146 [main] ERROR ReadFiles.FileReader - error
 2023-05-24 11:42:42.146 [main] FATAL ReadFiles.FileReader - fatal
+2023-05-24 11:47:46.106 [main] INFO  ReadFiles.FileReader - Entré méthode checkHeader
+2023-05-24 11:47:46.112 [main] INFO  ReadFiles.FileReader - pardage du fichierdata\users_202305090942.csv
+2023-05-24 11:48:32.565 [main] INFO  ReadFiles.FileReader - Entré méthode checkHeader
+2023-05-24 11:48:32.570 [main] INFO  ReadFiles.FileReader - parsage du fichier data\users_202305090942.csv
+2023-05-24 11:48:32.572 [main] INFO  ReadFiles.FileReader - début récupération des lignes
+2023-05-24 11:48:58.023 [main] INFO  ReadFiles.FileReader - Entré méthode checkHeader
+2023-05-24 11:48:58.027 [main] INFO  ReadFiles.FileReader - parsage du fichier data\users_202305090942.csv
+2023-05-24 11:48:58.030 [main] INFO  ReadFiles.FileReader - début récupération des lignes
+2023-05-24 11:54:22.192 [main] INFO  ReadFiles.FileReader - Entré méthode checkHeader
+2023-05-24 11:54:22.197 [main] INFO  ReadFiles.FileReader - parsage du fichier data\users_202305090942.csv
+2023-05-24 11:54:22.199 [main] INFO  ReadFiles.FileReader - début récupération des lignes
+2023-05-24 11:59:12.147 [main] INFO  ReadFiles.FileReader - Entré méthode checkHeader
+2023-05-24 11:59:12.152 [main] INFO  ReadFiles.FileReader - parsage du fichier data\users_202305090942.csv
+2023-05-24 11:59:12.154 [main] INFO  ReadFiles.FileReader - début récupération des lignes
+2023-05-24 11:59:39.243 [main] INFO  ReadFiles.FileReader - Entré méthode checkHeader
+2023-05-24 11:59:39.263 [main] INFO  ReadFiles.FileReader - parsage du fichier data\users_202305090942.csv
+2023-05-24 11:59:39.272 [main] INFO  ReadFiles.FileReader - début récupération des lignes
+2023-05-24 12:03:26.911 [main] INFO  ReadFiles.FileReader - Entré méthode checkHeader
+2023-05-24 12:03:26.915 [main] INFO  ReadFiles.FileReader - parsage du fichier data\users_202305090942.csv
+2023-05-24 12:03:26.918 [main] INFO  ReadFiles.FileReader - début récupération des lignes
+2023-05-24 12:10:00.630 [main] INFO  java.io.FileReader - Entré méthode checkHeader
+2023-05-24 12:10:00.651 [main] INFO  java.io.FileReader - fin récup
+2023-05-24 12:11:54.416 [main] INFO  java.io.FileReader - Entré méthode checkHeader
+2023-05-24 12:11:54.426 [main] INFO  java.io.FileReader - fin récup
+2023-05-24 12:12:09.950 [main] INFO  java.io.FileReader - Entré méthode checkHeader
+2023-05-24 12:12:09.963 [main] INFO  java.io.FileReader - fin récup
