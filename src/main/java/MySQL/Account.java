@@ -76,4 +76,20 @@ public class Account {
     public String getMontant_Remboursement() {
         return this.Montant_Remboursement;
     }
+
+    @Override
+    public String toString() {
+        return "Account{" +
+                "Id=" + Id +
+                ", Numero_Securite_Sociale='" + Numero_Securite_Sociale + '\'' +
+                ", Nom='" + Nom + '\'' +
+                ", prenom='" + prenom + '\'' +
+                ", Date_Naissance=" + Date_Naissance +
+                ", Numero_Telephone='" + Numero_Telephone + '\'' +
+                ", E_Mail='" + E_Mail + '\'' +
+                ", ID_Remboursement='" + ID_Remboursement + '\'' +
+                ", Code_Soin='" + Code_Soin + '\'' +
+                ", Montant_Remboursement='" + Montant_Remboursement + '\'' +
+                '}';
+    }
 }
