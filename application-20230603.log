@@ -1,0 +1,4 @@
+2023-06-03 12:22:07.300 [main] INFO  java.io.FileReader - Entré méthode checkHeader
+2023-06-03 12:22:07.314 [main] INFO  java.io.FileReader - fin récup
+2023-06-03 12:52:27.460 [main] INFO  java.io.FileReader - Entré méthode checkHeader
+2023-06-03 12:52:27.472 [main] INFO  java.io.FileReader - fin récup
